@@ -1,0 +1,512 @@
+Utterance,Emotion,Sentiment,Valence
+Y'know what?,neutral,neutral,0.0
+Push!,joy,positive,-0.166
+"Push 'em out, push 'em out, harder, harder.",joy,positive,-0.1535
+"Push 'em out, push 'em out, way out!",joy,positive,-0.0465
+"Okay, go left. Left! Left!",surprise,negative,-0.1324
+You got it?,neutral,neutral,0.0
+Howard's the,neutral,neutral,0.0
+What?,neutral,neutral,0.0
+"Oh no wait, oh no, the elastic on my underwear busted.",neutral,neutral,-0.0556363636363636
+"Oh wait, Joey, you can’t go like that! You stink!",disgust,negative,-0.101
+"So uh, what are you in for?",neutral,neutral,0.0
+Oh?!,surprise,negative,0.0
+"Yeah, but without the costumes.",neutral,neutral,-0.0396
+Oh.,neutral,neutral,0.0
+"And it’s not fake, it’s totally brutal.",neutral,neutral,-0.1151428571428571
+"Oh, Bob, he was nothing compared to you. I had to bite my lip to keep from screaming your name.",sadness,negative,-0.0069
+It was just so awkward and bumpy.,neutral,neutral,-0.0237142857142857
+Bumpy?,surprise,negative,-0.388
+Oh!,surprise,negative,0.0
+Excuse me?,surprise,positive,-0.26
+"Oh, how bad is it?",sadness,negative,-0.15
+"Oh, it’s bad. It’s really bad. The only thing in there that isn’t burned is an ass. Which I do",sadness,negative,-0.0968
+Fine! I’m sorry for your loss!,anger,negative,-0.0696666666666666
+"What’s all this about you guys fighting?! Is this really over a room?! I mean, that is so silly!",anger,negative,-0.007578947368421
+"I mean, enough of the silliness!",anger,negative,-0.1193333333333333
+Okay-okay!,anger,negative,0.0
+That is so silly.,joy,positive,-0.058
+"But I don't. Me, Phoebe.",neutral,neutral,0.0
+"Now, don’t hold back.",neutral,neutral,-0.0004999999999999
+Hey-hey-hey!,joy,positive,0.0
+What are you doing?,neutral,neutral,0.0
+Bye!,neutral,neutral,-0.25
+"Question. Was ah, ‘Egg the Gellers!’ the war cry of your neighbourhood?",neutral,neutral,-0.1076666666666666
+"Wait! Wait! I wanna see this. After I divorce him, half of that kingdom is gonna be mine.",joy,positive,-0.0206666666666666
+What a wank!,anger,negative,-0.236
+"Oh, I cannot believe he’s using our divorce to sell mattresses.",anger,negative,-0.0327272727272727
+And I’m appalled for you by the way.,anger,negative,-0.0815
+"I’m, I’m freaking out!",fear,negative,0.0
+I am,neutral,neutral,0.0
+Exactly! Unisex!,neutral,neutral,-0.008
+No! No Joey! U-N-I-sex.,joy,positive,-0.004
+"Why, exactly?",surprise,negative,0.0
+Chandler that's crazy!,surprise,positive,-0.2226666666666666
+"So, this isn't over?",neutral,neutral,0.0
+No.,joy,positive,0.0
+It's nothing to freak out about.,neutral,neutral,-0.2048333333333333
+I'm afraid so.,neutral,neutral,-0.3256666666666666
+What? Yeti—I mean Danny?,neutral,neutral,-0.03
+"Oh, I am, my side still hurts from when you crashed into me yesterday.",neutral,neutral,-0.0653571428571428
+Ow!!,anger,negative,0.0
+Sure! I feel so bad for you. I broke my leg once too.,sadness,negative,-0.0298461538461538
+How about you?,neutral,neutral,0.0
+Car accident.,sadness,negative,-0.0989999999999999
+Wait! What?! No!! Elevator!! No!,anger,negative,-0.0856
+What?,surprise,positive,0.0
+It's not the same.,neutral,neutral,-0.0465
+Ross's what?,surprise,positive,0.0
+"Oh, what? What was it?",surprise,positive,0.0
+The three losers.,sadness,negative,-0.176
+"Oh, poor Lily.",sadness,negative,-0.1359999999999999
+Ok.,neutral,neutral,0.0
+It worked!,surprise,positive,0.0
+"Oh come on, what am I gonna do, its been hours and it  won’t stop crying.",sadness,negative,-0.0371764705882352
+"Umm, she Rach, not it, she.",neutral,neutral,-0.0773333333333333
+"Oh my god, I am losing my mind.",anger,negative,-0.0039999999999999
+There shouldn’t be all this rules and restrictions!,anger,negative,-0.0332499999999999
+"Push, push!",neutral,neutral,-0.166
+"So, I hear, you hate me!",anger,negative,-0.0696666666666666
+"I, ah, I never said hate, I was very careful about that.",neutral,neutral,-0.0842499999999999
+A little birdie told me something about you wanting to rip your arm off and throw it at me.,anger,negative,-0.0339473684210526
+"He-he was with me umm, we’re playing a little game, y’know? Hide and seek.",neutral,neutral,-0.0148571428571428
+"Who, Josh?",surprise,negative,0.0
+It’s Joshua.,anger,negative,0.0
+"No, I don’t.",disgust,negative,0.0
+Oh no!,surprise,negative,0.0
+Wait!,surprise,negative,-0.552
+"Yeah, I lost it.",sadness,negative,-0.10725
+Whose is it?,neutral,neutral,-0.1113333333333333
+Diane Keaton.,neutral,neutral,0.0
+Really?!,surprise,positive,0.0
+"Down at the heel, holes in the toes.",joy,positive,-0.09375
+I stepped in something icky.,joy,positive,-0.0571999999999999
+"""Can’t, its not there.""",neutral,neutral,0.0
+"Okay, if you need the vacuum, it’s in my closet on the left-hand side. Ah, the garbage bags are next to the refrigerator",neutral,neutral,-0.0200869565217391
+"Uhh, 9.",neutral,neutral,0.0
+But it's dark out.,neutral,neutral,-0.151
+I'm,neutral,neutral,0.0
+Wait! What about Joey?,neutral,neutral,-0.138
+I’m so sorry!,fear,negative,-0.0626666666666666
+"It’s not for me, it’s for Rachel.",neutral,neutral,0.0
+She is?,surprise,negative,0.0
+Damnit!,anger,negative,-0.448
+Wait a minute!,surprise,positive,-0.1293333333333333
+Okay you two are asking the court for an annulment?,neutral,neutral,-0.0502
+So based on your petition you are seeking an annulment on the grounds that Mr. Geller is mentally unstable.,neutral,neutral,-0.0483684210526315
+"Fine, I’m mentally unstable.",anger,negative,-0.005
+And based on the fact that Mr. Geller is intravenous drug user.,neutral,neutral,-0.0102499999999999
+What?!,surprise,negative,0.0
+"Uh yes, heroin and crack.",neutral,neutral,-0.0354
+Crack isn’t even an intravenous drug!,anger,negative,-0.209
+Gin.,neutral,neutral,-0.102
+Will you stop!,joy,positive,-0.0146666666666666
+"Hey, check me out, I’m a slut!",joy,positive,-0.1022857142857142
+"Whoa, I'm sorry. Excuse me. We had this cart.",anger,negative,-0.0763333333333333
+"It was a ""Wendy's!!    """,anger,negative,0.0
+"...and then Zana, just let one rip!!",surprise,positive,-0.02
+"So, you stole my joke, and you stole my money.",anger,negative,-0.0364
+"Umm, Gene.",neutral,neutral,-0.232
+It’s Clint. It’s Clint!,anger,negative,0.0
+"Bye, Gene.",neutral,neutral,-0.125
+It’s Clint!,anger,negative,0.0
+"Oh, Larry.",neutral,neutral,0.0
+"No, bribes.",neutral,neutral,-0.388
+"Rach, I told you everything I knew last night!",anger,negative,-0.0268888888888888
+No! I mean come on! This is a,anger,negative,-0.0077499999999999
+What?,joy,positive,0.0
+"I mean, that guy with the toe thing?",anger,negative,-0.0305
+"Oh, c'mon Dora, don't be mad...",neutral,neutral,-0.0646666666666666
+"Sure, I'll go check on Emma.",neutral,neutral,-0.0566666666666666
+Thanx.,neutral,neutral,0.0
+No ... the leather sticks to my ass.,disgust,negative,-0.0235
+Huh?,anger,negative,-0.422
+"Joey, this is the awkward part.",joy,positive,-0.0136666666666666
+Oh!,surprise,positive,0.0
+Not a problem.,neutral,neutral,-0.292
+You need to y’know make sure I don’t have any horrible scars or tattoos.,neutral,neutral,-0.0168571428571428
+Don’t you worry. I have nothing to hide.,neutral,neutral,-0.056625
+"I tell ya, that has never happened before.",fear,negative,-0.05025
+Okay wait!,anger,negative,-0.179
+I’m next!,anger,negative,0.0
+"Not this hospital, I’m going to sue you!",anger,negative,-0.1085
+Uh Rach,neutral,neutral,0.0
+OH….MY….GAWD!!!,surprise,positive,0.0
+And Joey....,neutral,neutral,0.0
+And Ross.,neutral,neutral,0.0
+"So, um... where did Paolo come from?",neutral,neutral,-0.0155714285714285
+"Ah, Paolo, this is Phoebe.",neutral,neutral,0.0
+You betcha!,joy,positive,0.0
+"Okay, where in the hell did you get that?!",surprise,negative,-0.0317777777777777
+Why?,sadness,negative,0.0
+I told you not to go down there!,anger,negative,-0.0824999999999999
+Rachel always cries!,anger,negative,-0.173
+"Now Joey, you go down there and you suck up to him. I mean you suck like you’ve never sucked before!",neutral,neutral,-0.0246666666666666
+How ya feelin’?,neutral,neutral,0.0
+Woooo hoooo!!!,joy,positive,0.0
+"Ow, no ‘woo-hooing,’ no ‘woo-hooing.’",anger,negative,0.0
+"Why, what happened?",surprise,negative,0.0
+What is the worse part?,neutral,neutral,-0.11
+What’s wrong with you?,anger,negative,-0.229
+Nothing!,anger,negative,-0.333
+No way!,anger,negative,-0.02
+Damn you 15s!,anger,negative,-0.2846666666666667
+It’s a trifle.,neutral,neutral,-0.1526666666666666
+It’s got all of these layers.,neutral,neutral,0.0
+"Oh, oh! It's on again!",joy,positive,-0.0192
+Shhhh!,anger,negative,0.0
+And there is Kevin.,neutral,neutral,0.0
+"Noo way, Kevin.",joy,positive,-0.0133333333333333
+I can't wait to be with you!,joy,positive,-0.1051428571428571
+I'll sneak over as soon as Ross picks up Ben.,neutral,neutral,-0.0662
+Arghh!!,disgust,negative,-0.416
+What?,surprise,negative,0.0
+You chipped in?!,surprise,positive,-0.111
+Y'know?,neutral,neutral,0.0
+"Yeah, but you're making me look bad!",anger,negative,-0.0151428571428571
+No I'm not.,neutral,neutral,0.0
+No!,surprise,positive,0.0
+They'll see you talking to me and that's--I'm a hit!,joy,positive,-0.0518
+"Yeah, okay, my bad.",joy,positive,-0.0875
+For what?,neutral,neutral,0.0
+I warned you...,neutral,neutral,-0.132
+"Ooh, do I sense a little bit of resentment?",surprise,negative,-0.0164444444444444
+'Kay?,neutral,neutral,0.0
+"Oh, um, Chandler?",neutral,neutral,-0.049
+Uh-oh!,fear,negative,-0.36
+Who am I gonna meet in a blackout?,anger,negative,-0.0284999999999999
+Eligible looters?,anger,negative,-0.25
+OK.,neutral,neutral,0.0
+What ‘cha doing?,neutral,neutral,0.0
+"Me taking care of you is no problem, huh?",neutral,neutral,-0.0933333333333333
+I didn’t mean to scare you.,sadness,negative,-0.146
+I broke it.,sadness,negative,-0.17
+Where is Leslie?,fear,negative,0.0
+Leslie?,neutral,neutral,0.0
+Where are you Leslie?,fear,negative,0.0
+You said she was bald.,anger,negative,-0.0776
+No!,surprise,negative,0.0
+"Oooh, wrong answer.",neutral,neutral,-0.3326666666666667
+Then why are you smoking?,disgust,negative,-0.1296
+Hmm?,neutral,neutral,-0.052
+Hmm.,neutral,neutral,-0.052
+No.,neutral,neutral,0.0
+Ugh!,disgust,negative,-0.6
+Not at these prices.,anger,negative,-0.0105
+That's OK.,neutral,neutral,0.0
+What? What can't you do?,surprise,negative,-0.0368
+She really said that?,surprise,positive,0.0
+'Tonight' tonight?,surprise,positive,-0.036
+"O-kay. Look, it, it was stupid.",sadness,negative,-0.0169999999999999
+Really stupid.,anger,negative,-0.367
+Really stupid.,sadness,negative,-0.367
+Oh there it is.,neutral,neutral,0.0
+That’s not your regular dry cleaners.,neutral,neutral,-0.0326666666666666
+A little.   Now you’re talking.,neutral,neutral,-0.0005714285714285
+She must’ve left.,neutral,neutral,-0.0973333333333333
+Monica! Stop throwing it so hard! We're on the same team!,anger,negative,-0.0550909090909091
+I'm not a dropper!,anger,negative,-0.0835
+It's throwing and catching!,anger,negative,-0.005
+Oh! Oh! That's so hard.,surprise,positive,-0.0792
+"Whoa! Whoa! Whoa, Joey!",surprise,positive,-0.2144999999999999
+"Oh, it is.",neutral,neutral,0.0
+It isn't.,neutral,neutral,0.0
+It is.,neutral,neutral,0.0
+Isn't!,anger,negative,0.0
+"Umm, about that-that-that last move where the woman tripped you and then pinned you to the floor, what-what-what-what would you do next?",fear,negative,-0.0589090909090909
+No. No-no. No. What would,anger,negative,-0.0028
+Who? Me the attacker?,surprise,negative,-0.1575
+"I’m sorry Chandler, y’know you are such a sweet guy and I, I don’t want to hurt you.",sadness,negative,-0.0111111111111111
+No-no—Really?!,surprise,positive,0.0
+"Ohh, I’m sorry.",sadness,negative,-0.0213333333333333
+What?! Anything! Anything!,joy,positive,0.0
+No.,disgust,negative,0.0
+"So, that’s it?",surprise,negative,0.0
+Which is why,neutral,neutral,0.0
+Are you mocking me?,anger,negative,-0.209
+Why?,surprise,negative,0.0
+That's,neutral,neutral,0.0
+But,neutral,neutral,0.0
+Why not?!,anger,negative,0.0
+"You can’t fire him and dump him the same day, he’ll kill himself.",sadness,negative,-0.0918461538461538
+"Are you kidding?! Another week with that sip, I’ll kill",disgust,negative,-0.0982
+Okay. But the question is who’s gonna go first. ‘Cause whoever goes second is the bitch.,sadness,negative,-0.002875
+"Okay, good-bye. Good-bye.",sadness,negative,-0.282
+No!,anger,negative,0.0
+Janice!,surprise,positive,0.0
+There you are!,surprise,positive,0.0
+can you excuse me for a minute?,neutral,neutral,-0.0045714285714285
+Canceled?!,surprise,negative,0.0
+We’re not even shootin’ them anymore?!!,surprise,negative,-0.023
+Sorry.,sadness,negative,-0.188
+I’m sorry Joey.,sadness,negative,-0.0626666666666666
+What are,neutral,neutral,0.0
+Diet Coke,neutral,neutral,-0.1669999999999999
+What the hell was that?!,anger,negative,-0.192
+"No, no, no. What was that?",surprise,negative,0.0
+Really?,surprise,positive,0.0
+Earl Grey?,neutral,neutral,-0.071
+Oh.,joy,positive,0.0
+The patient I’m looking for has a broken leg and is in a wheelchair.,neutral,neutral,-0.0864285714285714
+"Uh, she’s with me.  Dr. Drake Remoray.",neutral,neutral,-0.00825
+Dr. Drake who?,neutral,neutral,-0.022
+Whoa! What?! Why?!,surprise,negative,-0.0953333333333333
+What happened?,surprise,negative,0.0
+"He’s not gonna make it, he’s stuck in Chicago.",sadness,negative,-0.0362222222222222
+"Stupid, useless Canadian money!",anger,negative,-0.2355
+What are you doing tonight?,neutral,neutral,-0.0072
+Huh? Uh,neutral,neutral,-0.211
+What?! Tonight?!,surprise,negative,-0.018
+That’s what Monica said.,neutral,neutral,0.0
+No-no-no-no-no-no-no-no!!! You can't come in here! R-r-r-r-Ross is naked.,surprise,negative,-0.0646666666666666
+It’s yours!,neutral,neutral,0.0
+Me too.,neutral,neutral,0.0
+Rachel.,neutral,neutral,0.0
+"I'm sorry, man.",sadness,negative,-0.0626666666666666
+Huh?,neutral,neutral,-0.422
+"I mean, what about those",neutral,neutral,-0.024
+Or that.,neutral,neutral,0.0
+I can't write!,anger,negative,-0.1
+I can't do it.,sadness,negative,-0.046
+I'll help you.,neutral,neutral,-0.1693333333333333
+"As bad as that went, I actually enjoyed myself. I think that I’m going to apologize for all of the stupid things I do.",neutral,neutral,-0.0159999999999999
+That bitch!,anger,negative,-0.224
+Monica! What,surprise,negative,0.0
+Why?!,surprise,negative,0.0
+Stuart!,anger,negative,0.0
+"Gary, I'm here to report a crime.",neutral,neutral,-0.0648571428571428
+"Man to uh, me.",neutral,neutral,0.0
+You mean scared.,neutral,neutral,-0.2759999999999999
+What?! Over a stupid room!,surprise,negative,-0.0551999999999999
+Shut-out!!,surprise,negative,-0.542
+"Come on, I'll only use my left hand, huh?",anger,negative,-0.1722222222222222
+"I'm going,  and I'm gone.",neutral,neutral,-0.0613333333333333
+I’m sorry.,sadness,negative,-0.094
+Ohhh. Don’t go.,sadness,negative,-0.154
+No. No! No! No!,sadness,negative,0.0
+"Yeah, um, I’m, I’m leaving now.",sadness,negative,-0.0681666666666666
+Good-bye Chandler Bing.,sadness,negative,-0.118
+Rachel has those in burgendy.,neutral,neutral,0.0
+"Oh, ew!",disgust,negative,0.0
+"What, wait, you mean like this?",neutral,neutral,-0.039
+Your not doing it.,neutral,neutral,0.0
+Where there is no fear of commitment.,neutral,neutral,-0.0608571428571428
+If you're afraid of bugs.....get a bug.,neutral,neutral,-0.2007142857142857
+"Oh, yeah. Go for it man, jump off the high dive, stare down the barrel of the gun, pee into the wind!",joy,positive,-0.0223181818181818
+Bye guys.,neutral,neutral,-0.0419999999999999
+Is this about Mark?,neutral,neutral,-0.0045
+Oh? Why not?,neutral,neutral,0.0
+Y’know what would really help me through this tough time is choking something. Can I choke ya?,anger,negative,-0.0067058823529411
+"Oh no-no-no, Monica would freak.  But to hell with that bitch.",anger,negative,-0.1931666666666666
+": Step away from the crib,    I have a weapon!",anger,negative,-0.0255384615384615
+"It's okay, it's okay Rach, it's me. Put down the scrunchy.",neutral,neutral,-0.0141818181818181
+No. Sorry.,sadness,negative,-0.094
+I mean what?,anger,negative,-0.04
+Are-are-are Rachel and I not as close as you guys?!,anger,negative,-0.0249999999999999
+I did not cry my eyes out!!,anger,negative,-0.0305714285714285
+Ahhhh!!,surprise,positive,-0.242
+"Ah,",neutral,neutral,0.0
+"So, you heard it, you repeated it, so that must mean you wrote it.",neutral,neutral,-0.0082857142857142
+And monkeys can’t write out prescriptions.,neutral,neutral,-0.0126666666666666
+I can’t find garbage bags!,anger,negative,-0.0151999999999999
+What is it?!,surprise,negative,0.0
+"I don’t know! But maybe if we keep that drawer shut, it’ll die.",disgust,negative,-0.0288461538461538
+You still haven’t told Rachel you weren’t really  proposing?,surprise,negative,-0.0012999999999999
+"Oh, by the  way.",neutral,neutral,-0.008
+Which,neutral,neutral,0.0
+You completely stole my answer!,anger,negative,-0.0391999999999999
+Would,neutral,neutral,-0.014
+"Uh, okay, and then you buzz Ross and I.",neutral,neutral,-0.0155555555555555
+"There was a ring, in a box, on my nightstand, after you left, it was gone!",anger,negative,-0.00875
+"Wait, you guys think I stole some ring?",surprise,negative,-0.02375
+"Look, I don’t need to steal some stupid ring, all right?",anger,negative,-0.0363636363636363
+Phoebe!,surprise,negative,0.0
+It’s Joey!,surprise,negative,0.0
+Who? Who is it?,surprise,negative,0.0
+The guy left this.,neutral,neutral,-0.0314999999999999
+I wanna see what’s in your hand. I wanna see the trash.,disgust,negative,-0.0041666666666666
+"Eww! Oh, it’s all dirty. You should throw this out.",disgust,negative,-0.0923
+Me too!,joy,positive,0.0
+Cut!,neutral,neutral,-0.02
+"No, she doesn’t.",neutral,neutral,0.0
+I’m sorry!,sadness,negative,-0.094
+It’s not!,sadness,negative,0.0
+Who’s that?,surprise,negative,0.0
+Nobody.,neutral,neutral,-0.6
+Is that Mark?,neutral,neutral,-0.0059999999999999
+"Okay.  Oh wait! Umm, did you send those contracts to Milan?",surprise,positive,-0.0256666666666666
+"No seriously, y’know the contracts I gave you, did you overnight them?",fear,negative,-0.0193333333333333
+I’m serious!,anger,negative,0.0
+"I’m telling you, you never gave them to me.",neutral,neutral,-0.0031111111111111
+"No, I would see you looking embarrassed because they are",anger,negative,-0.0376
+You wanna go down to the office right now?,neutral,neutral,-0.0004444444444444
+"No! Come on its late, we’re not gonna go down to the office.",anger,negative,-0.0893846153846153
+About what?,neutral,neutral,0.0
+"Uh, what was that?",surprise,negative,0.0
+"Uh,",neutral,neutral,0.0
+Bye.,neutral,neutral,-0.25
+Whoo-hoo!,joy,positive,0.0
+...I dunno.,neutral,neutral,-0.083
+"I mean,... how needy is that?",disgust,negative,-0.0666666666666666
+You talked to him. Are you crazy?,surprise,negative,-0.0982857142857142
+Whoa!,surprise,negative,-0.286
+What is that?!,surprise,negative,0.0
+"Yeah, and it really freaked me out! And after a while I even tried to hurt you and it just spurred you on.",sadness,negative,-0.0179130434782608
+What?! You’re crazy! There’s nothing sexual about the noises I make!,surprise,positive,-0.0877272727272727
+There’s nothing sexual about this?,anger,negative,-0.033
+What are you looking at?!,anger,negative,0.0
+"Oh my—This is so embarrassing. Oh my God, I’m never gonna get massaged again!",fear,negative,-0.0081428571428571
+"No, you can’t let this stop you from getting massages!",sadness,negative,-0.0002999999999999
+Really?!,surprise,negative,0.0
+Ezel? Ezel? Ezel?,surprise,negative,0.0
+"Ah, no-no-no just Ross. Ross and Joey is embarrassing enough.",disgust,negative,-0.0168
+I’m sorry I gotta cancel tonight baby,sadness,negative,-0.0174285714285714
+Rachel? Do you smoke?,neutral,neutral,-0.071
+Really? To what?,surprise,negative,0.0
+To Put the Camera Away!!!,anger,negative,-0.0324
+"Man,",neutral,neutral,0.0
+"Chandler, don’t worry! This doesn’t make you any less of a guy!",neutral,neutral,-0.0355
+Rachel?,neutral,neutral,0.0
+"No, the little girl creeps me out.",anger,negative,-0.0745714285714285
+Why would the little girl creep you out?,anger,negative,-0.067
+"You guys, I’m sorry, could you please talk a little slower?",neutral,neutral,-0.0003636363636363
+What?! Excuse me!,surprise,negative,-0.1733333333333333
+What the? What,surprise,negative,0.0
+"So I moved everything around and then I forgot where it, where it went back and I'm sorry, I'm very sorry, I'm sorry, I'm sorry.",sadness,negative,-0.02412
+"It's okay. Chandler, are you afraid of me or something?",neutral,neutral,-0.0763
+'Cause I-I got nothing!,anger,negative,-0.09875
+Ask again later.,neutral,neutral,-0.1
+What the hell!,anger,negative,-0.32
+This is broken!,anger,negative,-0.292
+It-it is broken!,anger,negative,-0.292
+Excuse me.,neutral,neutral,-0.26
+Are you Phoebe Buffay?,neutral,neutral,0.0
+She's distraught.,neutral,neutral,-0.385
+You're there for her.,neutral,neutral,0.0
+Shh!,anger,negative,0.0
+I got in there myself once.,neutral,neutral,-0.0333333333333333
+"No, you, you can’t fit in that thing. That’s not deep enough.",neutral,neutral,-0.0136666666666666
+"Oh, that is so sick.",disgust,negative,-0.1584
+I know. My arm is killing me.,neutral,neutral,-0.0294285714285714
+"No, I meant with the dropper over here.",neutral,neutral,-0.0255
+What’s the matter?,neutral,neutral,-0.0086666666666666
+Nothing.,neutral,neutral,-0.333
+What are you talking about alone? What about Ross?,surprise,negative,-0.0371111111111111
+Bob. Bob! Bob!!!  What the hell are you doing?!,surprise,negative,-0.096
+Joey!,surprise,negative,0.0
+"Whoa-whoa-whoa-whoa, I-I—Hey! I did",anger,negative,0.0
+Y’know?,neutral,neutral,0.0
+"On no! No! It’s not good-bye, I’m not leaving until you get on that plane.",sadness,negative,-0.0462666666666666
+": I’m sure as hell a dancer, it’s no use Marge will never go for me.",sadness,negative,-0.012875
+"July. Umm,",neutral,neutral,-0.232
+Bye Phoebe.,neutral,neutral,-0.125
+Monica and Rachel made out.,neutral,neutral,0.0
+Ohhh!,surprise,negative,-0.482
+No!,neutral,neutral,0.0
+"I mean, I don’t remember much about last night, it was such a blur.",neutral,neutral,-0.0178571428571428
+"Janice, what umm, what are you doing here?",sadness,negative,-0.02825
+I am. I'm,neutral,neutral,0.0
+Y’know what? It,neutral,neutral,0.0
+Sorry.,neutral,neutral,-0.188
+I’m so exited!,joy,positive,0.0
+I’ve been waiting for this for months!,joy,positive,-0.0208571428571428
+I’m making him a,joy,positive,0.0
+What am I making him by the way?,neutral,neutral,-0.005
+"Chandler! It happens to lots of guys! You-you-you were probably tired, you had a lot of champagne, don’t worry about it!",sadness,negative,-0.0135238095238095
+"I’m not worried, I’m uh, I’m fascinated.",fear,negative,-0.0268571428571428
+Phoebe!,joy,positive,0.0
+"If you would’ve let me finish, it goes on to say that he’s probably not gay.",neutral,neutral,-0.003875
+You are falling fast asleep.,neutral,neutral,-0.0275999999999999
+Deeper.,neutral,neutral,-0.162
+You don’t need to smoke.,neutral,neutral,-0.1207999999999999
+Cigarettes don’t control you.,neutral,neutral,-0.026
+So what are you saying.  I should run him under hot water and bang his head against a table?,surprise,negative,-0.00445
+"Monica, number one, I don’t think Ben understands the concept of bribery, and number two, I...   What?!",surprise,negative,-0.0138947368421052
+You said number two.,neutral,neutral,-0.037
+I also said number one.,neutral,neutral,-0.0208
+"Gunther, y'know what, I am a terrible waitress, do you know why I’m a terrible waitress?",anger,negative,-0.018875
+"Gunther, I quit.",sadness,negative,-0.0206666666666666
+"Umm, can I use your bathroom?",neutral,neutral,-0.0236666666666666
+"No-no-no-no-no,  I'm not fallin' for that again.",anger,negative,-0.012
+What's goin' on?,neutral,neutral,0.0
+"Well, I sorta did a stupid thing last night.",neutral,neutral,-0.0099999999999999
+What stupid thing did you do?,neutral,neutral,-0.0826666666666666
+Ewww!,disgust,negative,0.0
+It’s-it’s hot,neutral,neutral,-0.01
+You idiot!!,anger,negative,-0.414
+"What are you just some big, dumb, stupid, doofy idiot, with a doofy idiot hairdo, huh?!",anger,negative,-0.131125
+It's creamier.,neutral,neutral,0.0
+I thought it was gonna be a closed casket.,neutral,neutral,-0.0411111111111111
+"Jeez, man did you fall.. Hi! So ah, did ya, did-did-did ya fall high?",surprise,positive,-0.0250714285714285
+Ginger.,neutral,neutral,0.0
+"Ginger. I’m talking to Ginger, so....",neutral,neutral,0.0
+"Nope, nope, I’d just ah, I’d rather talk to you.",neutral,neutral,-0.0129999999999999
+What are you going to do? Kill him? Like you did with Charles?!,anger,negative,-0.0053846153846153
+You’re not the fan who’s dying are you?,neutral,neutral,-0.04475
+I-I-I’m leaving the show?,surprise,negative,-0.082
+Who told you that?,surprise,negative,-0.024
+Much!,joy,positive,0.0
+Oh,neutral,neutral,0.0
+The spitter.,disgust,negative,-0.2085
+"This photographer, who seemed really dull.",neutral,neutral,-0.0306666666666666
+"Umm, how’s it going with you guys?",neutral,neutral,-0.0357142857142857
+"Oh, really?",surprise,positive,0.0
+What-what are-what are these?,surprise,negative,0.0
+"No-no-no, no!",fear,negative,0.0
+That’s crazy.,surprise,negative,-0.344
+It’s me Rhonda!,neutral,neutral,0.0
+From PS-129!,neutral,neutral,0.0
+I gave you my,neutral,neutral,0.0
+Op.,neutral,neutral,-0.04
+Eh.,joy,positive,0.0
+"Oh, you got me.",neutral,neutral,0.0
+"Once you, once you betray me, I become like the ice woman, y’know.",neutral,neutral,-0.055076923076923
+"Very cold, hard, unyielding, y'know nothing,",neutral,neutral,-0.1906666666666666
+"I'm, I'm really sorry.",neutral,neutral,-0.047
+No?,surprise,negative,0.0
+But you-you understand how-how hard it is to forget about this.,sadness,negative,-0.0229090909090909
+"Sure, it’s hard to forget!",neutral,neutral,-0.0648
+What the hell happened on that beach?!,surprise,negative,-0.0271428571428571
+"Hold on, y’know I",neutral,neutral,-0.026
+What are you doing? We're going to a hospital.,surprise,negative,-0.034
+What is that?,surprise,negative,0.0
+"Okay, hating this.",disgust,negative,-0.2133333333333333
+"Rossy, Rossy.",neutral,neutral,0.0
+WHAT IS IT?!,anger,negative,0.0
+"Oh, yeah, um, alright, I kinda need a divorce.",neutral,neutral,-0.0761111111111111
+Ben! Ben! Ben!,joy,positive,0.0
+How about Joey... Pepponi?,neutral,neutral,0.0
+Which I'm not.,neutral,neutral,0.0
+Joe...Joe...Joe...Stalin?,neutral,neutral,0.0
+I’m not arguing with that.,neutral,neutral,0.0
+You are both idiots.,disgust,negative,-0.1694999999999999
+The joke sucks!,anger,negative,-0.1206666666666666
+Is not.,anger,negative,0.0
+I didn’t!,joy,positive,0.0
+"Did you, did you",anger,negative,0.0
+And it can't be Joey.,neutral,neutral,-0.0368
+It's not.,neutral,neutral,0.0
+Or Joseph.,neutral,neutral,0.0
+Regular or decaf?,neutral,neutral,-0.0566666666666666
+What?! Oh.,surprise,negative,0.0
+Where've you been?,neutral,neutral,0.0
+"She says as time goes on, he's gonna start getting agressive and violent.",sadness,negative,-0.0196923076923077
+So what does this mean?,neutral,neutral,-0.0039999999999999
+"And um, what-what is that Ross?",neutral,neutral,-0.0278333333333333
+What?! Are you crazy?,surprise,negative,-0.172
+You weren't trying to entice me with your nakedness.,joy,positive,-0.0593333333333333
+No! No!  No!  No-no-no-no.,joy,positive,0.0
+Ah Joey.,neutral,neutral,0.0
+Joey Tribbiani.,neutral,neutral,0.0
+"Oh, DAMN IT!",anger,negative,-0.2846666666666667
+"Don't worry, after a while he'll tune it out.",neutral,neutral,-0.0911111111111111
+"The uh, the baby that hasn't been born yet? Wouldn't that mean you're... crazy?",surprise,positive,-0.0058571428571428
+and that was all before 10 o’clock.,neutral,neutral,-0.0054285714285714
+"Oh, and the chilliest has carpel-tunel syndrome.",neutral,neutral,-0.0774285714285714
+Joey? Joey Tribbiani?,neutral,neutral,0.0
+What’s the matter?,sadness,negative,-0.0086666666666666
+"Oooh, I’m afraid that does not exist.",neutral,neutral,-0.0455714285714285
+Gimme them!,anger,negative,0.0
+You stole them from me!,anger,negative,-0.146
+You stole them from me!!,anger,negative,-0.146
+They’re not listening too me?,surprise,negative,0.0
